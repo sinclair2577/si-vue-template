@@ -1,5 +1,7 @@
 # si-vue-template
 
+基于个人IP的Vue项目模板
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -37,3 +39,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+基于个人IP的Vue项目模板
+>>>>>>> 295613f3b8e133a3239f7848ae6a702801936deb
