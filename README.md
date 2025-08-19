@@ -40,5 +40,3 @@ npm run build
 npm run lint
 ```
 =======
-基于个人IP的Vue项目模板
->>>>>>> 295613f3b8e133a3239f7848ae6a702801936deb
